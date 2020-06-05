@@ -15,8 +15,9 @@ There are 3 kinds of transformations that can be applied to the shapes:
 - Scaling: Input format: S x-scale y-scale
 - Rotation: Input format: R angle
 - Translation: Input format: T x-shift y-shift
-  
-  
+
+To exit the program, input quit.
+
   
 OUTPUT:
 
